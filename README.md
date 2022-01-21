@@ -23,4 +23,4 @@ DW Saver scores 6/66 on [virustotal.com](https://www.virustotal.com/gui/home/upl
 
 # Credits
 
-I am deflationz and I created this program by myself in about three hours or so on and off, if you run into any issues contact me in a issue or in [DeflationzWare](https://discord.gg/XxsQzu738M)
+I am deflationz and I created this program by myself in about three hours or so on and off, if you run into any issues contact me in a issue or in [DeflationzWare](https://discord.gg/XxsQzu738M) as well as become a tester there.
