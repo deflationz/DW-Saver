@@ -13,7 +13,7 @@ To download youtube videos simply install and open DW Saver and it will prompt y
 
 # Virus Check
 
-DW Saver scores 6/66 on virustotal.com furthermore see the results [here](https://www.virustotal.com/gui/file/d54eb7c99fb06be8d50bdc5621e7ed4d08fde7a6d1c18293ad2a568c11805b50/detection), or scan yourself.
+DW Saver scores 6/66 on [virustotal.com](https://www.virustotal.com/gui/home/upload) furthermore see the results [here](https://www.virustotal.com/gui/file/d54eb7c99fb06be8d50bdc5621e7ed4d08fde7a6d1c18293ad2a568c11805b50/detection), or scan yourself.
 
 # Credits
 
