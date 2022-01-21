@@ -9,7 +9,7 @@ You have two options, run standalone without source, or you can run source code 
 
 # Tutorial
 
-To download youtube videos simply install and open DW Saver and it will prompt you to input the YouTube video link, insert it and enetr it. It will install to the directory in which you installed DW Saver itself. ***PROGRAM WILL CLOSE AFTER SUCCESS!***
+To download youtube videos simply install and open DW Saver and it will prompt you to input the YouTube video link, insert it and enetr it. It will install to the directory in which you installed DW Saver itself. ***PROGRAM WILL CLOSE AFTER SUCCESS! (Temp fix below.)***
 
 **Temp Bug Fix!**
 
