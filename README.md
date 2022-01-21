@@ -1,11 +1,11 @@
 # DW Saver
 ***A simple python based program to save YouTube videos.***
 
+![Preview](https://media.discordapp.net/attachments/922684903613689907/933618959129911306/unknown.png?width=810&height=500)
+
 # Download
 
 You have two options, run standalone without source, or you can run source code with python. You can find these two downloads [here](https://github.com/deflationz/DW-Saver/releases/tag/release).
-
-![Preview](https://media.discordapp.net/attachments/922684903613689907/933618959129911306/unknown.png?width=810&height=500)
 
 # Tutorial
 
